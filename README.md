@@ -1,4 +1,4 @@
 # git-demo
 this is for github practice
 <br>
-author: Geety
+author: Geety Ara Chowdhury
